@@ -17,7 +17,6 @@ In this exercise, you are expected to implement a smart contract that performs a
 ```javascript
 function operate() external;
 ```
-
 ### Test case
 
 You are expected to liquidate `0x59CE4a2AC5bC3f5F225439B2993b86B42f6d3e9F` on Aave V2 which was liquidated at block `12489620`. Check out the [original liquidation transaction](https://etherscan.io/tx/0xac7df37a43fab1b130318bbb761861b8357650db2e2c6493b73d6da3d9581077).
